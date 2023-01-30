@@ -1,0 +1,3 @@
+[submodule "Test_HAL"]
+	path = Test_HAL
+	url = git@github.com:govee-huangjiaming/Test_HAL.git
